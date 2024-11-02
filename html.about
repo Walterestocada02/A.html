@@ -5,13 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ABOUT</title>
     <link rel="stylesheet.css" href="styleaabout.css">
-    <link rel="index.html" href="https://walterestocada02.github.io/html/">
+    <link rel="index.html" href="indexresume.html">
 </head>
 <body>
-    <div class="background">
-      <div class="background-image">
-        <img src="about.jpg" alt="">
-      </div>
-    </div>
+  <div class="content">
+    <h1>Estocada, Walter Paul P.<span></h1>
+      <h2>My Favorite Memories when I started job training because there are many happy memories and friends because while we enjoy repairing cars we learn more about the car industry</h2>
+      <h3>•Passion: Dancing, Car enthusiast </h3>
+      <h4>•Family: I'd like to thank my parents for their unwavering support; I hope that in some small way, I may realize their ambition for me.</h4>
+      <h35>•Journey: I'm glad that God will guide me wherever I go.</h5>
+      <h6>•Future Plan: I want to improve in car repair and go abroad </h6>
+
+      
+  </div>
 </body>
 </html>
