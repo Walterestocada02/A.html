@@ -4,8 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ABOUT</title>
-    <link rel="stylesheet.css" href="styleaabout.css">
-    <link rel="./" href="indexresume.html">
 </head>
 <body>
   <div class="content">
@@ -14,7 +12,7 @@
       <h3>•Passion: Dancing, Car enthusiast </h3>
       <h4>•Family: I'd like to thank my parents for their unwavering support; I hope that in some small way, I may realize their ambition for me.</h4>
       <h35>•Journey: I'm glad that God will guide me wherever I go.</h5>
-      <h6>•Future Plan: I want to improve in car repair and go abroad </h6>
+      <h6>•Future Plan: I want to improve in car repair and go abroad</h6>
 
       
   </div>
